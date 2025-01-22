@@ -16,11 +16,14 @@
             display: flex;
             justify-content: center;
             align-items: center;
-            height: 100vh;
+            flex-direction: column;
+            min-height: 100vh;
         }
 
         .container {
             text-align: center;
+            max-width: 800px;
+            padding: 20px;
         }
 
         .icon {
@@ -37,14 +40,44 @@
 
         .tagline {
             font-size: 1.2rem;
-            margin-bottom: 30px;
+            margin-bottom: 20px;
             color: #b3b3cc;
         }
 
-        .copyright {
-            font-size: 0.8rem;
-            margin-bottom: 30px;
+        .support {
+            font-size: 1rem;
+            margin-bottom: 20px;
             color: #b3b3cc;
+        }
+
+        .screenshots {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+            flex-wrap: wrap;
+            margin-bottom: 30px;
+        }
+
+        .screenshot {
+            width: calc(100vw / 5);
+            max-width: 320px;
+            aspect-ratio: 9 / 16;
+            background-color: #333;
+            border: 2px solid #555;
+            border-radius: 10px;
+            background-size: cover;
+            background-position: center;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+        }
+
+        .description {
+            font-size: 1rem;
+            line-height: 1.6;
+            color: #ccccdd;
+            margin-bottom: 30px;
+			text-align: justify;
+            background-color: #18182155;
+			padding: 25px 25px 25px 25px;
         }
 
         .playstore-button {
@@ -67,6 +100,45 @@
         .playstore-button i {
             margin-right: 10px;
         }
+
+        @media (max-width: 768px) {
+            .icon {
+                font-size: 3rem;
+            }
+
+            .app-name {
+                font-size: 2rem;
+            }
+
+            .tagline {
+                font-size: 1rem;
+            }
+
+            .support {
+                font-size: 0.9rem;
+            }
+
+            .screenshot {
+                width: calc(100vw / 3);
+                max-width: 120px;
+            }
+
+            .description {
+                font-size: 0.9rem;
+            }
+
+            .playstore-button {
+                font-size: 0.9rem;
+                padding: 10px 20px;
+            }
+        }
+		
+        .copyright {
+            font-size: 0.8rem;
+            margin-bottom: 30px;
+            color: #b3b3cc;
+        }
+
     </style>
 </head>
 <body>
@@ -75,17 +147,82 @@
             <img src="HanziDeckLogoBG512.png" width="200" height="200"></img>
         </div>
         <div class="app-name">Hanzi Deck</div>
-        <div class="tagline">A Chinese character strokes and vocabularies learning app.</div>
+        <div class="tagline">A Chinese character strokes writing and vocabularies learning app.</div>
         <a class="playstore-button" href="https://play.google.com/store/apps/details?id=com.springtomeinteractive.hanzideck" target="_blank">
             <i class="fab fa-google-play"></i>
             Get it on Google Play
         </a>
+		<br><br>
+        <div class="support">Support us to develop an iOS version:</div>
+		<a class="playstore-button" href="https://ko-fi.com/hanzideck" target="_blank">
+            <i class="fa-solid fa-hand-holding-dollar"></i>
+			Donate
+        </a>
+		
 		<br>
+		<br>
+		<br>
+		<div class="screenshots">
+            <div class="screenshot" style="background-image: url('images/SS1.png');"></div>
+			<div>
+			
+			</div>
+        </div>
+
+        <div class="description">
+            Hanzi Deck is a Chinese character learning app designed to help you master strokes writing, memorize, and build vocabulary at your own pace and choice.<br>
+			<br>
+			<ul>
+			<li> Character Strokes Writing<br>
+			Learn to write character stroke orders and composition.<br></li>
+			<br>
+			<li> Thousands of Available Characters<br>
+			Over 9574 simplified and traditional characters available in total.<br></li>
+			<br>
+			<li> Custom Decks<br>
+			Create your own decks and add entries with Chinese characters/words/sentence, pinyin, zhuyin, and definition.<br></li>
+			<br>
+			<li> Cloze Deletion<br>
+			You can also put certain characters inside a closure 【...】 in a sentence to only include those specific characters in the quiz.<br></li>
+			<br>
+			<li> Built-in HSK Decks<br>
+			Ready-to-use decks aligned with the HSK syllabus, both simplified and traditional.<br></li>
+			<br>
+			<li> Practice & Quiz Modes<br>
+			Learn through structured practice or test your knowledge with blind writing quizzes.<br></li>
+			<br>
+			<li> Voice<br>
+			Text-to-speech to learn pronunciation.<br></li>
+			<br>
+			<li> Dictionary<br>
+			Look up individual Chinese characters anytime with following information: pinyin, zhuyin (bopomofo), definition, radical, etymology, strokes animation, sound, and immediate practice mode.<br></li>
+			<br>
+			<li> Mastery Score<br>
+			Track your progress with a mastery score to see how well you’ve learned each character.<br></li>
+			<br>
+			<li> Balanced Mastery<br>
+			Adjust character frequency in each set of quiz based on your mastery score.<br></li>
+			<br>
+			<li> Decks Sharing<br>
+			Use the export-import feature to share decks.<br></li>
+			<br>
+			<li> Import from Anki<br>
+			Export your decks from Anki using .apkg files to import it in Hanzi Deck.<br></li>
+			<br>
+			</ul>
+			Simple, straightforward, and targeted for Mandarin learners at any level!<br>
+        </div>
+		
 		<br>
 		<br>
 		<a class="copyright" href="./pages/privacypolicy.html" target="_blank">Privacy Policy</a>
 		<br>
-		<a class="copyright">© 2025 Springtome Interactive</a>
+		<a id="copyright_text" class="copyright">© 2025 Springtome Interactive</a>
     </div>
+	
+	<script>
+	var copyrightText = document.getElementById("copyright_text");
+	copyrightText.innerHTML = "© " + new Date().getFullYear() + " Springtome Interactive";
+	</script>
 </body>
 </html>
