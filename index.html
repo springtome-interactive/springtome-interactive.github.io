@@ -151,6 +151,7 @@
         }
 
     </style>
+	<!-- Google tag (gtag.js) --> <script async src="https://www.googletagmanager.com/gtag/js?id=AW-16838653589"></script> <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);} gtag('js', new Date()); gtag('config', 'AW-16838653589'); </script>
 </head>
 <body>
     <div class="container">
@@ -159,7 +160,7 @@
         </div>
         <div class="app-name">Hanzi Deck</div>
         <div class="tagline">A Chinese character strokes writing and vocabularies learning app.</div>
-        <a class="playstore-button" href="https://play.google.com/store/apps/details?id=com.springtomeinteractive.hanzideck" target="_blank">
+        <a id="google-playstore-button" class="playstore-button" href="./pages/googleplaystore.html" target="_blank">
             <i class="fab fa-google-play"></i>
             Get it on Google Play
         </a>
@@ -234,6 +235,14 @@
 	<script>
 	var copyrightText = document.getElementById("copyright_text");
 	copyrightText.innerHTML = "© " + new Date().getFullYear() + " Springtome Interactive";
+	
+	const urlParams = new URLSearchParams(window.location.search);
+    const ref = urlParams.get('ref');
+    if (ref == 1) {
+		console.log("Coba!");
+		var playstoreButton = document.getElementById("google-playstore-button");
+		playstoreButton.href = "./pages/googleplaystore.html?ref=1";
+	}
 	</script>
 </body>
 </html>
