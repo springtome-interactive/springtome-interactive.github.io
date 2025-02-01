@@ -166,7 +166,7 @@
         </a>
 		<br><br><br><br><br>
         <div class="support">Support us to develop an iOS version:</div>
-		<a class="playstore-button" href="https://ko-fi.com/hanzideck" target="_blank">
+		<a id="donate-button" class="playstore-button" href="./pages/donate.html" target="_blank">
             <i class="fa-solid fa-hand-holding-dollar"></i>
 			Donate
         </a>
@@ -241,6 +241,9 @@
     if (ref == 1) {
 		var playstoreButton = document.getElementById("google-playstore-button");
 		playstoreButton.href = "./pages/googleplaystore.html?ref=1";
+		
+		var donateButton = document.getElementById("donate-button");
+		donateButton.href = "./pages/donate.html?ref=1";
 	}
 	</script>
 </body>
