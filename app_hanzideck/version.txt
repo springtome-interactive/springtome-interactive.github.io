@@ -1,5 +1,5 @@
 {
-    "iteration": 1,
-    "version": "1.3.0",
-    "message": "• More optimized dictionary performance\n• Filter learned-only characters in practice/quiz"
+    "iteration": 2,
+    "version": "1.4.1",
+    "message": "• Export deck as Anki package\n• Existing decks can now be imported to update or add new entries\n• Minor bug fixes"
 }
