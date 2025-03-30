@@ -1,5 +1,5 @@
 {
-    "iteration": 2,
-    "version": "1.4.1",
-    "message": "• Export deck as Anki package\n• Existing decks can now be imported to update or add new entries\n• Minor bug fixes"
+    "iteration": 3,
+    "version": "1.4.2",
+    "message": "• Minor visual updates\n• Fixed a bug where Anki export/import failed due to incompatible deck & card ID type"
 }
