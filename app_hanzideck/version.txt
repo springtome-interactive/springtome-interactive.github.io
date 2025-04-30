@@ -1,5 +1,5 @@
 {
-    "iteration": 3,
-    "version": "1.4.2",
-    "message": "• Minor visual updates\n• Fixed a bug where Anki export/import failed due to incompatible deck & card ID type"
+    "iteration": 4,
+    "version": "1.4.3",
+    "message": "• Added Unlearned Only filter\n• Fixed a bug where character mastery scores should decrease over time"
 }
