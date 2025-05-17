@@ -1,5 +1,5 @@
 {
-    "iteration": 4,
-    "version": "1.4.3",
-    "message": "• Added Unlearned Only filter\n• Fixed a bug where character mastery scores should decrease over time"
+    "iteration": 5,
+    "version": "1.5.0",
+    "message": "• Added typing mini games\n• Dictionary now shows all pinyin variants of each character"
 }
