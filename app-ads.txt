@@ -293,4 +293,4 @@ carbonatix.com, 14840966, RESELLER
 loopme.com, 11347, RESELLER, 6c8d5f95897a5a3b
 33across.com, 0010b00002MptSLAAZ, RESELLER, bbea06d9c4d2853c
 pubmatic.com, 160318, RESELLER, 5d62403b186f2ace
-ownerdomain=github.io
+ownerdomain=springtome-interactive.github.io
