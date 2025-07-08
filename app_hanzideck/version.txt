@@ -1,5 +1,5 @@
 {
-    "iteration": 5,
-    "version": "1.5.0",
-    "message": "• Added typing mini games\n• Dictionary now shows all pinyin variants of each character"
+    "iteration": 6,
+    "version": "1.5.3",
+    "message": "• Switched to dynamic font for compatibility and smaller app size\n• Fixed a bug where adding more than 50 entries in the first page doesn't automatically refresh page buttons"
 }
