@@ -1,5 +1,5 @@
 {
-    "iteration": 6,
-    "version": "1.5.3",
-    "message": "• Switched to dynamic font for compatibility and smaller app size\n• Fixed a bug where adding more than 50 entries in the first page doesn't automatically refresh page buttons"
+    "iteration": 8,
+    "version": "1.6.3",
+    "message": "• New mini-game: Character similarity quiz\n• Fixed weird tutorial visual in Android 15"
 }
