@@ -1,5 +1,5 @@
 {
-    "iteration": 8,
-    "version": "1.6.3",
-    "message": "• New mini-game: Character similarity quiz\n• Fixed weird tutorial visual in Android 15"
+    "iteration": 9,
+    "version": "1.6.4",
+    "message": "• Updated some of HSK 1 Deck entries\n• Keep the number of elapsed quiz box after quitting app to avoid showing Ads again\n• Anki Import: Added an instruction to enable "Support older Anki versions" when exporting a deck from Anki"
 }
