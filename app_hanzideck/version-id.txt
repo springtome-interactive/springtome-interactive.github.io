@@ -1,0 +1,5 @@
+{
+    "iteration": 9,
+    "version": "1.6.4",
+    "message": "• Perubahan terhadap beberapa entri deck HSK 1\n• Menyimpan jumlah boks kuis yang telah dilalui meski aplikasi telah ditutup untuk menghindari iklan yang muncul lagi\n• Impor Anki: Instruksi telah ditambahkan untuk mengaktifkan \"Support older Anki versions\" Ketika mengekspor deck dari Anki"
+}
