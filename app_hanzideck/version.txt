@@ -1,5 +1,5 @@
 {
-    "iteration": 9,
-    "version": "1.6.4",
-    "message": "• Updated some of HSK 1 Deck entries\n• Keep the number of elapsed quiz box after quitting app to avoid showing Ads again\n• Anki Import: Added an instruction to enable \"Support older Anki versions\" when exporting a deck from Anki"
+    "iteration": 10,
+    "version": "1.7.0",
+    "message": "• Added Indonesian language support\n• 16 KB memory page sizes support"
 }

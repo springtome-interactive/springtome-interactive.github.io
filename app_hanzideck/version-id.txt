@@ -1,5 +1,5 @@
 {
-    "iteration": 9,
-    "version": "1.6.4",
-    "message": "• Perubahan terhadap beberapa entri deck HSK 1\n• Menyimpan jumlah boks kuis yang telah dilalui meski aplikasi telah ditutup untuk menghindari iklan yang muncul lagi\n• Impor Anki: Instruksi telah ditambahkan untuk mengaktifkan \"Support older Anki versions\" Ketika mengekspor deck dari Anki"
+    "iteration": 10,
+    "version": "1.7.0",
+    "message": "• Dukungan untuk Bahasa Indonesia\n• Dukungan untuk 16 KB memory page sizes"
 }
