@@ -1,5 +1,5 @@
 {
-    "iteration": 10,
-    "version": "1.7.0",
-    "message": "• Added Indonesian language support\n• 16 KB memory page sizes support"
+    "iteration": 11,
+    "version": "1.7.1",
+    "message": "• Revised HSK 2 decks"
 }

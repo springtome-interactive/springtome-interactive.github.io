@@ -1,5 +1,5 @@
 {
-    "iteration": 10,
-    "version": "1.7.0",
-    "message": "• Dukungan untuk Bahasa Indonesia\n• Dukungan untuk 16 KB memory page sizes"
+    "iteration": 11,
+    "version": "1.7.1",
+    "message": "• Revisi deck HSK 2\n• Revisi kamus karakter\n• Terjemahan Bahasa Indonesia untuk deck HSK 2"
 }
