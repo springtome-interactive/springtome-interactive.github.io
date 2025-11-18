@@ -1,5 +1,5 @@
 {
-    "iteration": 11,
-    "version": "1.7.1",
-    "message": "• Revised HSK 2 decks"
+    "iteration": 12,
+    "version": "1.7.2",
+    "message": "• Revised HSK 3 decks (Manual reimport will be needed)\n• Fixed a bug where a hanzi with a single character composition would break its composition quiz"
 }
