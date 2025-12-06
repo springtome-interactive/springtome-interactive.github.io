@@ -1,5 +1,5 @@
 {
-    "iteration": 12,
-    "version": "1.7.2",
-    "message": "• Terjemahan Bahasa Indonesia untuk deck HSK 2 (Impor ulang perlu dilakukan secara manual)\n• Perbaikan bug untuk hanzi yang terdiri dari satu komponen karakter yang menyebabkan error di kuis komposisi"
+    "iteration": 13,
+    "version": "1.8.1",
+    "message": "• Fitur hapus iklan permanen (pembelian satu kali)"
 }
