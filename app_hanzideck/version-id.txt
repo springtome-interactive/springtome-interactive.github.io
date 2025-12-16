@@ -1,5 +1,5 @@
 {
-    "iteration": 13,
-    "version": "1.8.1",
-    "message": "• Fitur hapus iklan permanen (pembelian satu kali)"
+    "iteration": 14,
+    "version": "1.9.4",
+    "message": "• Mode Baru: Mode spaced-repetition\n• Opsi untuk mematikan kuis komposisi karakter\n• Karakter berulang sekarang cukup dimainkan sekali\n• Added an option to skip an entry during strokes quiz"
 }

@@ -1,5 +1,5 @@
 {
-    "iteration": 13,
-    "version": "1.8.1",
-    "message": "• Permanent ad removal feature (one-time purchase)"
+    "iteration": 14,
+    "version": "1.9.4",
+    "message": "• New Mode: Spaced repetition mode\n• Added an option to disable composition quiz\n• Repeating characters are now played once\n• Added an option to skip an entry during strokes quiz"
 }
