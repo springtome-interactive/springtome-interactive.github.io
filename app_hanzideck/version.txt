@@ -1,5 +1,5 @@
 {
-    "iteration": 14,
-    "version": "1.9.4",
-    "message": "• New Mode: Spaced repetition mode\n• Added an option to disable composition quiz\n• Repeating characters are now played once\n• Added an option to skip an entry during strokes quiz"
+    "iteration": 15,
+    "version": "1.10.4",
+    "message": "• Landscape mode for tablets\n• Fixed where stroke input may fail on certain top area"
 }

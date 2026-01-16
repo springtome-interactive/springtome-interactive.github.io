@@ -1,5 +1,5 @@
 {
-    "iteration": 14,
-    "version": "1.9.4",
-    "message": "• Mode Baru: Mode spaced-repetition\n• Opsi untuk mematikan kuis komposisi karakter\n• Karakter berulang sekarang cukup dimainkan sekali\n• Added an option to skip an entry during strokes quiz"
+    "iteration": 15,
+    "version": "1.10.4",
+    "message": "• Mode lanskap untuk tablet\n• Perbaikan bug untuk input goresan yang tidak terbaca di sebagian area atas"
 }
