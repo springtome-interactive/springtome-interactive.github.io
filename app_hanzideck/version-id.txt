@@ -1,5 +1,5 @@
 {
-    "iteration": 15,
-    "version": "1.10.4",
-    "message": "• Mode lanskap untuk tablet\n• Perbaikan bug untuk input goresan yang tidak terbaca di sebagian area atas"
+    "iteration": 16,
+    "version": "1.11.0",
+    "message": "• Fitur baru: Deck Favorit\n• Opsi untuk mengacak entri spaced repetition baru\n• Opsi untuk memindah urutan entri deck\n• Perbaikan bug penambahan entri ditinjau yang melebihi maks ditinjau per hari setelah menyelesaikan kuis harian"
 }
