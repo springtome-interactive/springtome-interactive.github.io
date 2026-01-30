@@ -1,5 +1,5 @@
 {
-    "iteration": 16,
-    "version": "1.11.0",
-    "message": "• Fitur baru: Deck Favorit\n• Opsi untuk mengacak entri spaced repetition baru\n• Opsi untuk memindah urutan entri deck\n• Perbaikan bug penambahan entri ditinjau yang melebihi maks ditinjau per hari setelah menyelesaikan kuis harian"
+    "iteration": 17,
+    "version": "1.11.2",
+    "message": "• Perbaikan bug kotak input yang menumpuk\n• Perbaikan bug kamus yang menghilang setelah mengganti tema"
 }

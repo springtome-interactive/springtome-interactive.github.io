@@ -1,5 +1,5 @@
 {
-    "iteration": 16,
-    "version": "1.11.0",
-    "message": "• New feature: Favorites deck\n• Added an option to randomize new spaced repetition entries\n• Added an option to reorder a deck entry\n• Fixed a bug where entries to review are added with exceeding daily max reviews after a daily quiz is completed"
+    "iteration": 17,
+    "version": "1.11.2",
+    "message": "• Fixed a bug where portrait and landscape fields overlap\n• Fixed a bug where dictionary goes blank after toggling theme"
 }
