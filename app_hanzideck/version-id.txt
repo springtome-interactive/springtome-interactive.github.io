@@ -1,5 +1,5 @@
 {
-    "iteration": 17,
-    "version": "1.11.2",
-    "message": "• Perbaikan bug kotak input yang menumpuk\n• Perbaikan bug kamus yang menghilang setelah mengganti tema"
+    "iteration": 18,
+    "version": "1.11.4",
+    "message": "• Opsi untuk mengubah entri deck yang sedang dimainkan dalam kuis goresan\n• Pinyin Typew & Zhuyin Typew sekarang menggunakan spaced-repetition"
 }

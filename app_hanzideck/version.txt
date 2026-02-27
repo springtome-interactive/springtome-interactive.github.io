@@ -1,5 +1,5 @@
 {
-    "iteration": 17,
-    "version": "1.11.2",
-    "message": "• Fixed a bug where portrait and landscape fields overlap\n• Fixed a bug where dictionary goes blank after toggling theme"
+    "iteration": 18,
+    "version": "1.11.4",
+    "message": "• Added an option to edit current entry during strokes quiz\n• Pinyin Typew & Zhuyin Typew now use spaced repetition"
 }
