@@ -1,5 +1,5 @@
 {
-    "iteration": 18,
-    "version": "1.11.4",
-    "message": "• Added an option to edit current entry during strokes quiz\n• Pinyin Typew & Zhuyin Typew now use spaced repetition"
+    "iteration": 19,
+    "version": "1.12.0",
+    "message": "• Updated built-in HSK decks to version 3.0 2026\n• HSK 1-9 decks Indonesian language support"
 }

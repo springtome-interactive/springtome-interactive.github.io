@@ -1,5 +1,5 @@
 {
-    "iteration": 18,
-    "version": "1.11.4",
-    "message": "• Opsi untuk mengubah entri deck yang sedang dimainkan dalam kuis goresan\n• Pinyin Typew & Zhuyin Typew sekarang menggunakan spaced-repetition"
+    "iteration": 19,
+    "version": "1.12.0",
+    "message": "• Pembaruan HSK deck bawaan ke versi 3.0 2026\n• Dukungan Bahasa Indonesia untuk deck HSK 1-9"
 }
