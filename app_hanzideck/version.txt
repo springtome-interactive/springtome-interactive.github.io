@@ -1,5 +1,5 @@
 {
-    "iteration": 20,
-    "version": "1.12.1",
-    "message": "• Fixed HSK deck entry mistakes\n\n• Updated built-in HSK decks to version 3.0 2026\n• HSK 1-9 decks Indonesian language support"
+    "iteration": 21,
+    "version": "1.13.4",
+    "message": "• Added local backup & restore feature\n\n• Added Text-to-Speech troubleshooter"
 }

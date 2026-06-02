@@ -1,5 +1,5 @@
 {
-    "iteration": 20,
-    "version": "1.12.1",
-    "message": "• Perbaikan kesalahan entri deck HSK\n\n• Pembaruan HSK deck bawaan ke versi 3.0 2026\n• Dukungan Bahasa Indonesia untuk deck HSK 1-9"
+    "iteration": 21,
+    "version": "1.13.4",
+    "message": "• Penambahan fitur pencadangan & pemulihan lokal\n\n• Penambahan fitur penyelesaian masalah Text-to-Speech"
 }
