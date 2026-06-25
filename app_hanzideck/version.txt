@@ -1,5 +1,5 @@
 {
-    "iteration": 21,
-    "version": "1.13.4",
-    "message": "• Added local backup & restore feature\n\n• Added Text-to-Speech troubleshooter"
+    "iteration": 22,
+    "version": "1.14.1",
+    "message": "• Added multicharacter word/phrase suggestion and autofill when adding/editing an entry\n• SRS Statistics now shows due days instead of raw days interval\n• Added 'Out Other Apps' section in Settings\n\nWe just released a new companion app called Tomeu! It is an interactive Chinese reader built for learning through real content from local files such as e-books and videos, with all learning tools integrated in a single app. You can check it out in Settings → Our Other Apps."
 }

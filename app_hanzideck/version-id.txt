@@ -1,5 +1,5 @@
 {
-    "iteration": 21,
-    "version": "1.13.4",
-    "message": "• Penambahan fitur pencadangan & pemulihan lokal\n\n• Penambahan fitur penyelesaian masalah Text-to-Speech"
+    "iteration": 22,
+    "version": "1.14.1",
+    "message": "• Penambahan saran dan autofill untuk kata/frase dengan karakter lebih dari satu pada saat menambah atau mengubah entri\n• Perubahan teks sisa hari pada Statistik SRS\n• Penambahan 'Produk Lain dari Kami' di menu Pengaturan\n\nKami baru saja merilis aplikasi baru bernama Tomeu! Tomeu adalah Mandarin reader interaktif yang dirancang untuk belajar melalui konten imersif menggunakan file lokal seperti e-book dan video, dengan semua fitur pembelajaran terintegrasi dalam satu aplikasi. Kamu dapat membukanya di menu Pengaturan → Produk Lain dari Kami."
 }
