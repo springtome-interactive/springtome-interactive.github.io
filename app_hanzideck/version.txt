@@ -1,5 +1,5 @@
 {
-    "iteration": 22,
-    "version": "1.14.1",
-    "message": "• Added multicharacter word/phrase suggestion and autofill when adding/editing an entry\n• SRS Statistics now shows due days instead of raw days interval\n• Added 'Out Other Apps' section in Settings\n\nWe just released a new companion app called Tomeu! It is an interactive Chinese reader built for learning through real content from local files such as e-books and videos, with all learning tools integrated in a single app. You can check it out in Settings → Our Other Apps."
+    "iteration": 23,
+    "version": "1.15.3",
+    "message": "• Updated duplicate words in HSK 1-6 to match the intended POS variant for each level\n• Added optional study reminder push notification\n• Fixed where adding new entries doesn't immediately update SRS daily task\n• Fixed Typew minigame visual issue on landscape tablets after playing a stroke quiz\n• Known Issue: Certain ad causes black screen after being watched"
 }

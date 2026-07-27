@@ -1,5 +1,5 @@
 {
-    "iteration": 22,
-    "version": "1.14.1",
-    "message": "• Penambahan saran dan autofill untuk kata/frase dengan karakter lebih dari satu pada saat menambah atau mengubah entri\n• Perubahan teks sisa hari pada Statistik SRS\n• Penambahan 'Produk Lain dari Kami' di menu Pengaturan\n\nKami baru saja merilis aplikasi baru bernama Tomeu! Tomeu adalah Mandarin reader interaktif yang dirancang untuk belajar melalui konten imersif menggunakan file lokal seperti e-book dan video, dengan semua fitur pembelajaran terintegrasi dalam satu aplikasi. Kamu dapat membukanya di menu Pengaturan → Produk Lain dari Kami."
+    "iteration": 23,
+    "version": "1.15.3",
+    "message": "• Update pada kosakata berulang di deck HSK 1-6 dengan varian definisi sesuai POS yang dimaksudkan sesuai silabus\n• Fitur opsional push notification pengingat belajar\n• Perbaikan bug tugas harian SRS yang tidak langsung terupdate ketika entri baru ditambahkan ke dalam deck\n• Perbaikan bug visual Typew minigame yang muncul di landscape tablet setelah memainkan kuis goresan\n• Known Issue: Bug layar hitam setelah menonton iklan tertentu"
 }
