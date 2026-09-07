@@ -440,3 +440,20 @@ copper6.com, 766114, RESELLER
 zetaglobal.net, 525, RESELLER
 video.unrulymedia.com, 201313863, RESELLER
 netmarvel.com, 1011828, RESELLER, ca3509163a633862
+themediagrid.com, JVHG38, RESELLER, 9fac4a4a87c2a44f
+themediagrid.com, B8N9YH, RESELLER, 35d5010d7789b49d
+video.unrulymedia.com, 947824792, RESELLER
+thunder-monetize.com, 2158729563, RESELLER
+media.net, 8CAXEGFDP, RESELLER
+bold-win.com, 1189, RESELLER, 71746737d0bab951
+triplelift.com, 14705-EB, RESELLER
+bigo.sg, adidz3dyfp, RESELLER
+e-planning.net, 79ded3cfca3d3b78, RESELLER, c1ba615865ed87b2
+pubmatic.com, 160145, RESELLER, 5d62403b186f2ace
+media.net, 8CU5L226O, RESELLER
+lijit.com, 606973, RESELLER, fafdf38b16bf6b2b
+loopme.com, 2896, RESELLER, 6c8d5f95897a5a3b
+verve.com, 1008379, RESELLER, 0c8f5958fc2d6270
+media.net, 8CUSC3UJ7, RESELLER
+pubmatic.com, 168244, RESELLER, 5d62403b186f2ace
+media.net, 8CUUQ286L, RESELLER
