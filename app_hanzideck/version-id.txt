@@ -1,5 +1,5 @@
 {
-    "iteration": 23,
-    "version": "1.15.3",
-    "message": "• Update pada kosakata berulang di deck HSK 1-6 dengan varian definisi sesuai POS yang dimaksudkan sesuai silabus\n• Fitur opsional push notification pengingat belajar\n• Perbaikan bug tugas harian SRS yang tidak langsung terupdate ketika entri baru ditambahkan ke dalam deck\n• Perbaikan bug visual Typew minigame yang muncul di landscape tablet setelah memainkan kuis goresan\n• Known Issue: Bug layar hitam setelah menonton iklan tertentu"
+    "iteration": 24,
+    "version": "1.16.1",
+    "message": "• Fitur Baru: Urutan Box Latihan Kustom\nSekarang kamu bisa mengatur urutan jenis box latihan dan menyesuaikan jumlah box dalam setiap latihan, sehingga latihan bisa dibuat lebih singkat atau lebih panjang.\n\n• Saran/sugesti untuk input Kata dalam Entri sekarang juga meliputi pencarian pinyin dan definisi"
 }
