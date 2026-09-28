@@ -1,5 +1,5 @@
 {
-    "iteration": 24,
-    "version": "1.16.1",
-    "message": "• New Feature: Custom Practice Box Order\nYou can now customize the order of practice box types and adjust the number of boxes in each practice, so you can make practices shorter or longer.\n\n• Entry Word suggestion now searches for pinyin and definition as well"
+    "iteration": 25,
+    "version": "1.16.2",
+    "message": "• New Feature: Custom Practice Box Order\nYou can now customize the order of practice box types and adjust the number of boxes in each practice, so you can make practices shorter or longer.\n\n• Entry Word suggestion now searches for pinyin and definition as well\n• Fixed a bug where local backup could fail in a certain condition"
 }

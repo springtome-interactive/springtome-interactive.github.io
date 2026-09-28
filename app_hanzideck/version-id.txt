@@ -1,5 +1,5 @@
 {
-    "iteration": 24,
-    "version": "1.16.1",
-    "message": "• Fitur Baru: Urutan Box Latihan Kustom\nSekarang kamu bisa mengatur urutan jenis box latihan dan menyesuaikan jumlah box dalam setiap latihan, sehingga latihan bisa dibuat lebih singkat atau lebih panjang.\n\n• Saran/sugesti untuk input Kata dalam Entri sekarang juga meliputi pencarian pinyin dan definisi"
+    "iteration": 25,
+    "version": "1.16.2",
+    "message": "• Fitur Baru: Urutan Box Latihan Kustom\nSekarang kamu bisa mengatur urutan jenis box latihan dan menyesuaikan jumlah box dalam setiap latihan, sehingga latihan bisa dibuat lebih singkat atau lebih panjang.\n\n• Saran/sugesti untuk input Kata dalam Entri sekarang juga meliputi pencarian pinyin dan definisi\n• Perbaikan bug cadangkan lokal yang tidak berfungsi di kondisi tertentu"
 }
