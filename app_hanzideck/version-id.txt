@@ -1,5 +1,5 @@
 {
-    "iteration": 25,
-    "version": "1.16.2",
-    "message": "• Fitur Baru: Urutan Box Latihan Kustom\nSekarang kamu bisa mengatur urutan jenis box latihan dan menyesuaikan jumlah box dalam setiap latihan, sehingga latihan bisa dibuat lebih singkat atau lebih panjang.\n\n• Saran/sugesti untuk input Kata dalam Entri sekarang juga meliputi pencarian pinyin dan definisi\n• Perbaikan bug cadangkan lokal yang tidak berfungsi di kondisi tertentu"
+    "iteration": 26,
+    "version": "1.16.3",
+    "message": "Perbaikan minor:\n• Perbaikan bug tampilan goresan pada 30 karakter: 嫜 庵 悱 櫱 灣 灣 犪 璨 皚 眚 簡 繫 绚 缗 胬 衔 觯 询 谛 賚 贗 躐 鐘 雛 韬 鬭 鲁 鶓 鶺 龈\n• Penambahan karakter baru di kamus: 鐸"
 }

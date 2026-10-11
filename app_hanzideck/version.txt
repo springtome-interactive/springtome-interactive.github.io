@@ -1,5 +1,5 @@
 {
-    "iteration": 25,
-    "version": "1.16.2",
-    "message": "• New Feature: Custom Practice Box Order\nYou can now customize the order of practice box types and adjust the number of boxes in each practice, so you can make practices shorter or longer.\n\n• Entry Word suggestion now searches for pinyin and definition as well\n• Fixed a bug where local backup could fail in a certain condition"
+    "iteration": 26,
+    "version": "1.16.3",
+    "message": "Minor fixes:\n• Fixed stroke visual bug on 30 characters: 嫜 庵 悱 櫱 灣 灣 犪 璨 皚 眚 簡 繫 绚 缗 胬 衔 觯 询 谛 賚 贗 躐 鐘 雛 韬 鬭 鲁 鶓 鶺 龈\n• Added a new character entry in the dictionary: 鐸"
 }
