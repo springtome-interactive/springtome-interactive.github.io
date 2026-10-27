@@ -1,5 +1,5 @@
 {
-    "iteration": 26,
-    "version": "1.16.3",
-    "message": "Perbaikan minor:\n• Perbaikan bug tampilan goresan pada 30 karakter: 嫜 庵 悱 櫱 灣 灣 犪 璨 皚 眚 簡 繫 绚 缗 胬 衔 觯 询 谛 賚 贗 躐 鐘 雛 韬 鬭 鲁 鶓 鶺 龈\n• Penambahan karakter baru di kamus: 鐸"
+    "iteration": 27,
+    "version": "1.16.4",
+    "message": "Penambahan 148 karakter baru di kamus:\n妡嚐汙濕艶粿崁塭迺摃湳碁怐煏餔踇骹蜑祐璟璿晞晧畯叡倣偺儐儔剴勗啣嚶囁壙姍媼彫徬慇懍搾撚枴梱櫂櫝歟歿浬濬燄燐犖獰獺玀琍琺琿甽瘉瘍礪礫篛簍簑籐絃綑綞綰綾緇縑縲繅羶臏菴萵蓆蘗訐証詁誥諍譁跼輜轔鈐鈸鉋鉑銻鍍鏃鏍鏑鏗鏘鏜鏝鏤鐃鐳靄靨餽驃髏鰍鼇齣鯁鐫驁縐櫺搵鏵獴鸛鮁騍鷚鴝鶥鶲鵐鵙鳽鸌闍磑吽肏瀍㹴磣崍鮍偲殜蕁"
 }
